@@ -1,0 +1,9 @@
+idVehicule,marque,modele,idTypeEnergie,prixAchat,consommation,autonomieKm,anneeAchat,dureeAmortissement
+VH001,Tesla,Model 3,ELEC,42990,14.5,510,2022,5
+VH002,Renault,Zoe,ELEC,33700,17.2,395,2021,5
+VH003,Peugeot,e-208,ELEC,36800,16.8,362,2023,5
+VH004,Volkswagen,ID.3,ELEC,39990,15.4,425,2022,5
+VH005,Renault,Clio,ESS,21350,5.8,680,2021,5
+VH006,Peugeot,308,DIES,32450,4.2,920,2022,5
+VH007,Volkswagen,Golf,ESS,29990,6.1,720,2023,5
+VH008,Toyota,Corolla,DIES,28500,3.9,980,2020,5
