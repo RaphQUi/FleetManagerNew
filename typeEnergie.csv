@@ -1,0 +1,4 @@
+idTypeEnergie,libelle,unite,prixParUnite
+ELEC,Electrique,kWh,0.25
+ESS,Essence SP95,L,1.85
+DIES,Diesel,L,1.75
