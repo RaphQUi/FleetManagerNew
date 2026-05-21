@@ -1,6 +1,6 @@
 # FleetManagerNew# 🚗 FleetManager
 
-Application Java de gestion et d'analyse d'une flotte automobile, développée dans le cadre du module **Outils technologiques pour la digitalisation** (ESSCA, formateur Sylvain Labasse).
+Application Java de gestion et d'analyse d'une flotte automobile, développée dans le cadre du module **Outils technologiques pour la digitalisation** 
 
 ## Contexte métier
 
