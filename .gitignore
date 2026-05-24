@@ -1,0 +1,17 @@
+# Java
+*.class
+*.jar
+target/
+out/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
